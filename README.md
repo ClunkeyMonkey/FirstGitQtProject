@@ -1,0 +1,2 @@
+# FirstGitQtProject
+TryingItOutToSeeIfItWorks
